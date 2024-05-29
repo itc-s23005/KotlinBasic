@@ -4,24 +4,45 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="a876a582-10e3-4c60-b3ad-3ec391baaaef" name="変更" comment="2章終わり">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/codeStyles/Project.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/codeStyles/codeStyleConfig.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/gradle.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/kotlinc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/build.gradle.kts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/gradle.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/gradle/wrapper/gradle-wrapper.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/gradle/wrapper/gradle-wrapper.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/gradlew" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/gradlew.bat" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/settings.gradle.kts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/kotlin/Chap02.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/kotlin/Main.kt" afterDir="false" />
+    <list default="true" id="a876a582-10e3-4c60-b3ad-3ec391baaaef" name="変更" comment="チェック2終わり">
+      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/Chap.20.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/Chap13.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/Chap14.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/Chap15.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/Chap16.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/Chap17.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/Chap18.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/Chap19.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/Chap21.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/Chap22.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/Chap23.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/Chap24.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/Chap25.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/Chap27.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/Chap28.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/Chap29.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/Chap30.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/Chap31.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/Chap32.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/Chap34.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/Chap35.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/Chap36.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/Chap37.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/Chap38.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/Chap39.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/Chap40.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/Chap41.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/Chap43.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/Chap44.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/Check03.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/Check04.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/Check05.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/chap26.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/jp/ac/it_college/std/s23005/kotlin/basic/Chap42.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/jp/ac/it_college/std/s23005/kotlin/basic/cars/Cars.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/gradle.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/gradle.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -36,17 +57,30 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
-        <option value="Kotlin Class" />
+        <option value="Class" />
         <option value="Kotlin File" />
+        <option value="Kotlin Class" />
       </list>
     </option>
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
-  <component name="ProjectColorInfo"><![CDATA[{
-  "associatedIndex": 0
-}]]></component>
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;lastFilter&quot;: {
+    &quot;state&quot;: &quot;OPEN&quot;,
+    &quot;assignee&quot;: &quot;itc-s23005&quot;
+  }
+}</component>
+  <component name="GithubPullRequestsUISettings">{
+  &quot;selectedUrlAndAccountId&quot;: {
+    &quot;url&quot;: &quot;https://github.com/itc-s23005/KotlinBasic.git&quot;,
+    &quot;accountId&quot;: &quot;ca3afe3c-d3f8-46df-9bc4-2e2fddafdc40&quot;
+  }
+}</component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 0
+}</component>
   <component name="ProjectId" id="2gACG9bKk9n45uWqGqBan2Aevum" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
@@ -57,17 +91,63 @@
   "keyToString": {
     "Gradle.KotlinBasic のビルド.executor": "Run",
     "Kotlin.Chap02Kt.executor": "Debug",
+    "Kotlin.Chap03Kt.executor": "Run",
+    "Kotlin.Chap04Kt.executor": "Run",
+    "Kotlin.Chap05Kt.executor": "Run",
+    "Kotlin.Chap06Kt.executor": "Run",
+    "Kotlin.Chap07Kt.executor": "Run",
+    "Kotlin.Chap08Kt.executor": "Run",
+    "Kotlin.Chap09Kt.executor": "Debug",
+    "Kotlin.Chap10Kt.executor": "Run",
+    "Kotlin.Chap11Kt.executor": "Run",
+    "Kotlin.Chap12Kt.executor": "Run",
+    "Kotlin.Chap13Kt.executor": "Run",
+    "Kotlin.Chap14Kt.executor": "Run",
+    "Kotlin.Chap15Kt.executor": "Run",
+    "Kotlin.Chap16Kt.executor": "Run",
+    "Kotlin.Chap18Kt.executor": "Run",
+    "Kotlin.Chap19Kt.executor": "Run",
+    "Kotlin.Chap22Kt.executor": "Run",
+    "Kotlin.Chap23Kt.executor": "Run",
+    "Kotlin.Chap24Kt.executor": "Run",
+    "Kotlin.Chap25Kt.executor": "Run",
+    "Kotlin.Chap26Kt.executor": "Run",
+    "Kotlin.Chap27Kt.executor": "Run",
+    "Kotlin.Chap28Kt.executor": "Run",
+    "Kotlin.Chap29Kt.executor": "Run",
+    "Kotlin.Chap30Kt.executor": "Run",
+    "Kotlin.Chap31Kt.executor": "Run",
+    "Kotlin.Chap32Kt.executor": "Run",
+    "Kotlin.Chap34Kt.executor": "Run",
+    "Kotlin.Chap35Kt.executor": "Run",
+    "Kotlin.Chap36Kt.executor": "Run",
+    "Kotlin.Chap37Kt.executor": "Run",
+    "Kotlin.Chap38Kt.executor": "Run",
+    "Kotlin.Chap39Kt.executor": "Run",
+    "Kotlin.Chap40Kt.executor": "Run",
+    "Kotlin.Chap42Kt.executor": "Run",
+    "Kotlin.Chap43Kt.executor": "Run",
+    "Kotlin.Chap44Kt.executor": "Run",
+    "Kotlin.Chap_20Kt.executor": "Run",
+    "Kotlin.Check01Kt.executor": "Run",
+    "Kotlin.Check02Kt.executor": "Run",
+    "Kotlin.Check03Kt.executor": "Run",
+    "Kotlin.Check05Kt.executor": "Run",
     "Kotlin.MainKt.executor": "Debug",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "SHARE_PROJECT_CONFIGURATION_FILES": "true",
-    "git-widget-placeholder": "master",
+    "git-widget-placeholder": "main",
     "kotlin-language-version-configured": "true",
+    "last_opened_file_path": "/home/s23005/IdeaProjects/KotlinBasic/src/main/kotlin",
     "node.js.detected.package.eslint": "true",
     "node.js.detected.package.tslint": "true",
     "node.js.selected.package.eslint": "(autodetect)",
     "node.js.selected.package.tslint": "(autodetect)",
     "nodejs_package_manager_path": "npm",
     "onboarding.tips.debug.path": "/home/s23005/IdeaProjects/KotlinBasic/src/main/kotlin/Main.kt",
+    "project.structure.last.edited": "モジュール",
+    "project.structure.proportion": "0.0",
+    "project.structure.side.proportion": "0.0",
     "vue.rearranger.settings.migration": "true"
   },
   "keyToStringList": {
@@ -76,6 +156,74 @@
     ]
   }
 }]]></component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/src/main/kotlin" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Kotlin.Chap42Kt">
+    <configuration name="Chap39Kt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.example.chap39.Chap39Kt" />
+      <module name="KotlinBasic.main" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Chap40Kt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.example.chap40.Chap40Kt" />
+      <module name="KotlinBasic.main" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Chap42Kt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="jp.ac.it_college.std.s23005.kotlin.basic.Chap42Kt" />
+      <module name="KotlinBasic.main" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Chap43Kt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.example.chap43.Chap43Kt" />
+      <module name="KotlinBasic.main" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Chap44Kt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.example.chap44.Chap44Kt" />
+      <module name="KotlinBasic.main" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Chap_20Kt" type="JetRunConfigurationType" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Chap_20Kt" />
+      <module name="KotlinBasic.main" />
+      <option name="PROGRAM_PARAMETERS" value="guest" />
+      <shortenClasspath name="NONE" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="Kotlin.Chap_20Kt" />
+      <item itemvalue="Kotlin.Chap42Kt" />
+      <item itemvalue="Kotlin.Chap39Kt" />
+      <item itemvalue="Kotlin.Chap40Kt" />
+      <item itemvalue="Kotlin.Chap43Kt" />
+      <item itemvalue="Kotlin.Chap44Kt" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Kotlin.Chap42Kt" />
+        <item itemvalue="Kotlin.Chap44Kt" />
+        <item itemvalue="Kotlin.Chap43Kt" />
+        <item itemvalue="Kotlin.Chap40Kt" />
+        <item itemvalue="Kotlin.Chap39Kt" />
+      </list>
+    </recent_temporary>
+  </component>
   <component name="SharedIndexes">
     <attachedChunks>
       <set>
@@ -92,8 +240,120 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1715130897386</updated>
-      <workItem from="1715130898573" duration="6234000" />
+      <workItem from="1715130898573" duration="25846000" />
+      <workItem from="1715219286407" duration="18541000" />
+      <workItem from="1715646892590" duration="59105000" />
+      <workItem from="1716252050761" duration="23163000" />
+      <workItem from="1716340143244" duration="41669000" />
+      <workItem from="1716856191109" duration="14605000" />
+      <workItem from="1716876092815" duration="3000" />
+      <workItem from="1716969818948" duration="1190000" />
     </task>
+    <task id="LOCAL-00001" summary="2章終わり">
+      <option name="closed" value="true" />
+      <created>1715137366163</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1715137366163</updated>
+    </task>
+    <task id="LOCAL-00002" summary="3章終わり">
+      <option name="closed" value="true" />
+      <created>1715155631436</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1715155631436</updated>
+    </task>
+    <task id="LOCAL-00003" summary="4章終わり">
+      <option name="closed" value="true" />
+      <created>1715155643921</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1715155643921</updated>
+    </task>
+    <task id="LOCAL-00004" summary="5章終わり">
+      <option name="closed" value="true" />
+      <created>1715155652209</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1715155652209</updated>
+    </task>
+    <task id="LOCAL-00005" summary="6章終わり">
+      <option name="closed" value="true" />
+      <created>1715155662677</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1715155662677</updated>
+    </task>
+    <task id="LOCAL-00006" summary="7章終わり">
+      <option name="closed" value="true" />
+      <created>1715155671248</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1715155671248</updated>
+    </task>
+    <task id="LOCAL-00007" summary="8章終わり">
+      <option name="closed" value="true" />
+      <created>1715302433608</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1715302433608</updated>
+    </task>
+    <task id="LOCAL-00008" summary="9章終わり">
+      <option name="closed" value="true" />
+      <created>1715302441120</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1715302441120</updated>
+    </task>
+    <task id="LOCAL-00009" summary="10章終わり">
+      <option name="closed" value="true" />
+      <created>1715302449795</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1715302449795</updated>
+    </task>
+    <task id="LOCAL-00010" summary="11章終わり">
+      <option name="closed" value="true" />
+      <created>1715302456334</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1715302456334</updated>
+    </task>
+    <task id="LOCAL-00011" summary="12章終わり">
+      <option name="closed" value="true" />
+      <created>1715302468291</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1715302468291</updated>
+    </task>
+    <task id="LOCAL-00012" summary="チェック1終わり">
+      <option name="closed" value="true" />
+      <created>1715302490872</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1715302490872</updated>
+    </task>
+    <task id="LOCAL-00013" summary="チェック2終わり">
+      <option name="closed" value="true" />
+      <created>1715302498278</created>
+      <option name="number" value="00013" />
+      <option name="presentableId" value="LOCAL-00013" />
+      <option name="project" value="LOCAL" />
+      <updated>1715302498278</updated>
+    </task>
+    <option name="localTasksCounter" value="14" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -101,7 +361,19 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="2章終わり" />
-    <option name="LAST_COMMIT_MESSAGE" value="2章終わり" />
+    <MESSAGE value="3章終わり" />
+    <MESSAGE value="4章終わり" />
+    <MESSAGE value="5章終わり" />
+    <MESSAGE value="6章終わり" />
+    <MESSAGE value="7章終わり" />
+    <MESSAGE value="8章終わり" />
+    <MESSAGE value="9章終わり" />
+    <MESSAGE value="10章終わり" />
+    <MESSAGE value="11章終わり" />
+    <MESSAGE value="12章終わり" />
+    <MESSAGE value="チェック1終わり" />
+    <MESSAGE value="チェック2終わり" />
+    <option name="LAST_COMMIT_MESSAGE" value="チェック2終わり" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -110,6 +382,11 @@
           <url>file://$PROJECT_DIR$/src/main/kotlin/Main.kt</url>
           <line>13</line>
           <option name="timeStamp" value="4" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="kotlin-line">
+          <url>file://$PROJECT_DIR$/src/main/kotlin/Chap09.kt</url>
+          <line>16</line>
+          <option name="timeStamp" value="5" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
